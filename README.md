@@ -59,3 +59,7 @@ Note: think about using Event Delegation vs attaching individual event listeners
 ### Bonus!
 
 _When the "Move!" button is clicked_, the robot automatically moves according the the list of directions every half second. The directions should disappear from your list of directions as the robot moves. You may want to look into `setInterval`  or `setTimeout`.
+
+// when you click Move, each move runs in an interval, the object moves and then the move gets deleted
+
+
